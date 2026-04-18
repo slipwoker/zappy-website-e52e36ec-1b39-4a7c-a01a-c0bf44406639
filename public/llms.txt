@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות מוצרים לזוגות אונליין שנבנתה מאהבה. מוצרי לייפסטייל חמים ומיוחדים שיחזקו את הזוגיות שלכם — כי כל רגע ביחד שווה חגיגה. גלה עכשיו.
+
+### הסיפור שלנו
+https://example.com/brand-story
+ZoogUs24 נולדה מתוך הרצון לחזק זוגיות אמיתית. גלה את הסיפור שמאחורי המותג שמאמין שמוצרים לחיזוק הזוגיות יכולים לשנות רגעים יומיומיים לרגעים בלתי נשכחים.
+
+### עשוי לשניים
+https://example.com/made-for-two
+קולקציית המוצרים הרומנטיים שלנו תוכננה עבור שניים בלבד. מתנות רומנטיות לזוגות שמביאות חום, קרבה ורגעים משותפים — כי אהבה טובה מגיעה בזוגות. קנה עכשיו.
+
+### צור קשר
+https://example.com/contact
+רוצה לפנק את בת הזוג שלך ולא בטוח מה לבחור? צוות ZoogUs24 ישמח לעזור לך למצוא את המתנה המושלמת לזוגיות שלכם. צור קשר עכשיו ונחזור אליך במהרה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ZoogUs24
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ZoogUs24
+
+### Category
+https://example.com/category/:slug
+מוצרים - ZoogUs24
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
