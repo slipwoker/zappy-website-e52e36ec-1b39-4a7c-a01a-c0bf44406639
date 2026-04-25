@@ -12683,6 +12683,371 @@ nav.navbar .sub-menu li a {
 .featured-categories-section .section-title {
   color: #0A0A0A !important;
 }
+
+.index-hero-section .index-hero-scrim {
+  background: linear-gradient(90deg, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.65) 50%, rgba(0,0,0,0.15) 100%) !important;
+}
+
+.index-hero-section .index-hero-eyebrow {
+  color: var(--primary-color) !important;
+  letter-spacing: 0.25em !important;
+  font-size: 0.75rem !important;
+  text-transform: uppercase !important;
+  font-weight: 500 !important;
+}
+
+.index-hero-section .index-hero-h1 {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-size: clamp(2.8rem, 4.5vw, 6rem) !important;
+  font-weight: 600 !important;
+  color: #F5F0E8 !important;
+  line-height: 1.1 !important;
+}
+
+.index-hero-section .index-hero-tagline {
+  color: var(--primary-color) !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.05em !important;
+}
+
+.index-hero-section .index-hero-body {
+  color: #BDB8AE !important;
+}
+
+.index-hero-section .index-hero-btn-primary {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) !important;
+  color: #0A0A0A !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.08em !important;
+  border-radius: 2px !important;
+  border: none !important;
+  text-transform: uppercase !important;
+  font-size: 0.8rem !important;
+}
+
+.index-hero-section .index-hero-btn-secondary {
+  background: transparent !important;
+  color: #F5F0E8 !important;
+  border: 1px solid rgba(201,168,76,0.5) !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.08em !important;
+  border-radius: 2px !important;
+  text-transform: uppercase !important;
+  font-size: 0.8rem !important;
+}
+
+.index-hero-section .index-hero-divider-wrapper svg path {
+  fill: var(--background-color) !important;
+}
+
+.index-benefits-section {
+  background: #141414 !important;
+}
+
+.index-benefits-section .index-benefits-eyebrow {
+  color: var(--primary-color) !important;
+  letter-spacing: 0.2em !important;
+  text-transform: uppercase !important;
+  font-size: 0.72rem !important;
+}
+
+.index-benefits-section .index-benefits-heading {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: #F5F0E8 !important;
+  font-size: clamp(2rem, 3.5vw, 4.5rem) !important;
+  font-weight: 600 !important;
+}
+
+.index-benefits-section .index-benefits-subtext {
+  color: #8A8070 !important;
+}
+
+.index-benefits-section .index-benefits-card {
+  background: #1C1C1C !important;
+  border: 1px solid #2E2A24 !important;
+  border-radius: 4px !important;
+}
+
+.index-benefits-section .index-benefits-card:hover {
+  border-color: rgba(201,168,76,0.4) !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.6) !important;
+}
+
+.index-benefits-section .index-benefits-card-icon {
+  color: var(--primary-color) !important;
+}
+
+.index-benefits-section .index-benefits-card-title {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: #F5F0E8 !important;
+  font-size: 1.3rem !important;
+  font-weight: 600 !important;
+}
+
+.index-benefits-section .index-benefits-card p {
+  color: #8A8070 !important;
+  font-size: 0.9rem !important;
+}
+
+.index-benefits-section .index-benefits-closing {
+  color: #8A8070 !important;
+}
+
+.index-benefits-section .index-benefits-cta {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) !important;
+  color: #0A0A0A !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.08em !important;
+  border-radius: 2px !important;
+  text-transform: uppercase !important;
+  font-size: 0.8rem !important;
+}
+
+.index-benefits-section .index-benefits-image-caption {
+  color: var(--primary-color) !important;
+  letter-spacing: 0.2em !important;
+}
+
+.index-benefits-section .index-benefits-divider-wrapper svg path {
+  fill: var(--background-color) !important;
+}
+
+.index-showcase-section {
+  background: var(--background-color) !important;
+}
+
+.index-showcase-section .showcase-eyebrow {
+  color: var(--primary-color) !important;
+  letter-spacing: 0.2em !important;
+  text-transform: uppercase !important;
+  font-size: 0.72rem !important;
+}
+
+.index-showcase-section .showcase-title {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: #F5F0E8 !important;
+  font-size: clamp(1.8rem, 3vw, 4rem) !important;
+  font-weight: 600 !important;
+}
+
+.index-showcase-section .showcase-subtitle {
+  color: #8A8070 !important;
+}
+
+.index-showcase-section .panel-scene-title {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: #F5F0E8 !important;
+  font-size: 1.4rem !important;
+}
+
+.index-showcase-section .panel-scene-desc {
+  color: #BDB8AE !important;
+}
+
+.index-showcase-section .panel-tag {
+  color: var(--primary-color) !important;
+  border-color: rgba(201,168,76,0.4) !important;
+  background: rgba(201,168,76,0.08) !important;
+  letter-spacing: 0.1em !important;
+  text-transform: uppercase !important;
+  font-size: 0.7rem !important;
+}
+
+.index-showcase-section .showcase-cta-text {
+  color: #8A8070 !important;
+}
+
+.index-showcase-section .showcase-cta-btn {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) !important;
+  color: #0A0A0A !important;
+  font-weight: 600 !important;
+  border-radius: 2px !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  font-size: 0.8rem !important;
+}
+
+.index-showcase-section .showcase-divider-wrapper svg path {
+  fill: #141414 !important;
+}
+
+.index-reviews-section {
+  background: #141414 !important;
+}
+
+.index-reviews-section .reviews-eyebrow {
+  color: var(--primary-color) !important;
+  letter-spacing: 0.2em !important;
+  text-transform: uppercase !important;
+  font-size: 0.72rem !important;
+}
+
+.index-reviews-section .reviews-title {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: #F5F0E8 !important;
+  font-size: clamp(1.8rem, 3vw, 4rem) !important;
+  font-weight: 600 !important;
+}
+
+.index-reviews-section .reviews-featured-quote {
+  border-color: rgba(201,168,76,0.3) !important;
+  background: #1C1C1C !important;
+}
+
+.index-reviews-section .quote-mark {
+  color: var(--primary-color) !important;
+  font-family: 'Cormorant Garamond', serif !important;
+}
+
+.index-reviews-section .quote-text {
+  color: #F5F0E8 !important;
+  font-family: 'Cormorant Garamond', serif !important;
+  font-size: 1.3rem !important;
+  font-style: italic !important;
+}
+
+.index-reviews-section .author-name {
+  color: var(--primary-color) !important;
+}
+
+.index-reviews-section .author-label {
+  color: #8A8070 !important;
+}
+
+.index-reviews-section .review-card {
+  background: #1C1C1C !important;
+  border: 1px solid #2E2A24 !important;
+  border-radius: 4px !important;
+}
+
+.index-reviews-section .review-card:hover {
+  border-color: rgba(201,168,76,0.35) !important;
+}
+
+.index-reviews-section .review-body {
+  color: #8A8070 !important;
+  font-size: 0.9rem !important;
+}
+
+.index-reviews-section .reviewer-name {
+  color: #F5F0E8 !important;
+  font-weight: 600 !important;
+}
+
+.index-reviews-section .reviewer-location {
+  color: #8A8070 !important;
+}
+
+.index-reviews-section .fa-star {
+  color: var(--primary-color) !important;
+}
+
+.index-reviews-section .reviews-trust-strip {
+  background: #1C1C1C !important;
+  border: 1px solid #2E2A24 !important;
+}
+
+.index-reviews-section .trust-label {
+  color: #F5F0E8 !important;
+}
+
+.index-reviews-section .trust-desc {
+  color: #8A8070 !important;
+}
+
+.index-reviews-section .trust-icon-wrap {
+  color: var(--primary-color) !important;
+}
+
+.index-reviews-section .trust-separator {
+  background: #2E2A24 !important;
+}
+
+.index-reviews-section .reviews-cta-btn {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) !important;
+  color: #0A0A0A !important;
+  font-weight: 600 !important;
+  border-radius: 2px !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+}
+
+.index-reviews-section .reviews-divider-wrapper svg path {
+  fill: #0A0A0A !important;
+}
+
+.index-cta-section {
+  background: #080808 !important;
+  border-top: 1px solid #2E2A24 !important;
+}
+
+.index-cta-section .index-cta-heading {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: #F5F0E8 !important;
+  font-size: clamp(2rem, 3.5vw, 5rem) !important;
+  font-weight: 600 !important;
+}
+
+.index-cta-section .index-cta-text {
+  color: #8A8070 !important;
+}
+
+.index-cta-section .index-cta-btn-primary {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) !important;
+  color: #0A0A0A !important;
+  font-weight: 600 !important;
+  border-radius: 2px !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  font-size: 0.8rem !important;
+}
+
+.index-cta-section .index-cta-btn-secondary {
+  background: transparent !important;
+  color: #F5F0E8 !important;
+  border: 1px solid rgba(201,168,76,0.4) !important;
+  border-radius: 2px !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  font-size: 0.8rem !important;
+}
+
+.index-cta-section .index-cta-reassurance {
+  color: var(--primary-color) !important;
+  font-family: 'Cormorant Garamond', serif !important;
+  font-style: italic !important;
+}
+
+.featured-products-section {
+  background: var(--background-color) !important;
+}
+
+.featured-categories-section {
+  background: var(--background-color) !important;
+}
+
+.featured-products-section .section-title,
+.featured-categories-section .section-title {
+  font-family: 'Cormorant Garamond', serif !important;
+  color: #F5F0E8 !important;
+}
+
+.featured-products-section .btn.btn-primary,
+.featured-categories-section .btn.btn-primary {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) !important;
+  color: #0A0A0A !important;
+  border-radius: 2px !important;
+  font-weight: 600 !important;
+  border: none !important;
+}
+
+.featured-products-section .btn-primary {
+  color: #F5F0E8 !important;
+}
+
+.featured-categories-section .btn-primary {
+  color: #F5F0E8 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
